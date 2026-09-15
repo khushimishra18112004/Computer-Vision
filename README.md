@@ -92,7 +92,7 @@ intensity (RMS contrast), and Shannon entropy of the histogram.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/docuvision.git
+git clone https://github.com/khushimishra18112004/Computer-Vision.git
 cd docuvision
 pip install -r requirements.txt
 ```
